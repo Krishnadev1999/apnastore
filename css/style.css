@@ -10296,6 +10296,10 @@ input:focus, textarea:focus, keygen:focus, select:focus {
     text-transform: uppercase;
     font-size: 38px !important;
 }
+.mymap{
+    width:315px; 
+    height:250px;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -10307,6 +10311,10 @@ input:focus, textarea:focus, keygen:focus, select:focus {
   }
   .hamrasec{
     margin-top: 4%;
+  }
+  .mymap{
+    width:584px; 
+    height:550px;
   }
 
 }
