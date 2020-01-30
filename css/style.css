@@ -10316,6 +10316,7 @@ input:focus, textarea:focus, keygen:focus, select:focus {
     width:584px; 
     height:550px;
   }
+  .mobile-only{ display: none; }
 
 }
 
