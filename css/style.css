@@ -10341,3 +10341,11 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 }
 
 
+.owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: none !important;
+    touch-action: manipulation !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+}
